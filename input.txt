@@ -1,0 +1,13 @@
+332 225 startxid,startyid
+34 idwidthx
+39 idwidthy
+535 371 startx,starty
+32 widthx
+42 widthy
+61 Difference_between_two_successive_cells_X
+5 Number_Of_Cells
+25 Number_Of_Questions_Per_Section
+2 Number_Of_Sections
+-5 Difference_In_X_Between_Sections
+716 Difference_In_Y_Between_Sections 
+C:/Users/manu/Desktop/my stuff/study/all sem/sem 7/mini project/OMR/Good
